@@ -1,0 +1,7 @@
+Sitemap: http://barbershopfade.com.hr/sitemap.xml
+
+User-agent: *
+Disallow: /products.html
+Disallow: /gallery.html
+
+
